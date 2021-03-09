@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--Pál Jámbor-->
+
+<head>
+    <meta charset="utf-8">
+    <title>Rules</title>
+    <link href="css/styles.css" type="text/css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflarse.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js">
+    </script>
+    <script src="js/bootstrap.min.js"></script>
+    <link href="css/styles.css" rel="stylesheet" type="text/css"> </head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-light navbar-light sticky-top shadow-lg">
+        <a class="navbar-brand d-sm-none d-md-block"><img class="img-fluid d-none d-sm-block" src="images/VIAlogo.png" alt="vialogo"></a> <a class="navbar-brand d-md-none">VIA University College</a>
+        <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#myNavbar"> <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="exam-types.html">Exam</a></li>
+                <li class="nav-item"><a class="nav-link active" href="scheadule.html">Schedule</a></li>
+                <li class="nav-item"><a class="nav-link" href="rules.html">Rules</a></li>
+                <li class="nav-item"><a class="nav-link" href="advice.html">Advice</a></li>
+                <li class="nav-item"><a class="nav-link " href="aboutus.html">About us</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container py-5">
+        <h1 class="headerrules py-3 mt-5 text-center rounded m-5 px-5">The schedule</h1>
+        <h2 class="text-center">January</h2>
+        <input type="text" id="input" onkeyup="filter()" placeholder="Search...">
+        <div class="table-responsive">
+            <table id="schd" class=" table table-hover table-bordered text-right"></table>
+        </div>
+    </div>
+    <div class="footer">
+        <footer class="page-footer font-small black pt-2">
+            <div class="container-fluid text-center text-md-left">
+                <!--text-center is needed for portrait view-->
+                <div class="row">
+                    <div class=" col-md-4">
+                        <h5 class="text-uppercase">Useful Links</h5>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <ul class="list-unstyled">
+                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="exam-types.html">Exam</a></li>
+                                        <li><a href="scheadule.html">Schedule</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul class="list-unstyled">
+                                        <li><a href="rules.html">Rules</a></li>
+                                        <li><a href="advice.html">Advice</a></li>
+                                        <li><a href="aboutus.html">About us</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-5 mb-md-0 mb-3">
+                        <h5 class="text-uppercase">Contact</h5>
+                        <ul class="list-unstyled">
+                            <li> <a href="aboutus.html">Samantha Nettesheim</a> </li>
+                            <li> <a href="aboutus.html">Pál Jámbor </a> </li>
+                            <li> <a href="aboutus.html">Audrius Šaučiūnas </a> </li>
+                            <li> <a href="aboutus.html">Melania Gabriela Poteras </a> </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <h5 class="text-uppercase">contact the university</h5>
+                        <a class="px-3" href="https://www.facebook.com/VIASoftwareEng/?__tn__=%2Cd%2CP-R&eid=ARBQTK-IcXmAb0wFnS30NvWuUJ33X9qss4ba9u2UOq1xa0yudXR0XIKfiNaZggdET7X0tiCN38omVzox" target="_blank"> <img src="images/facebook.png" alt="facebook" /> </a>
+                        <a class="px-3" href="mailto:via@via.dk"><img src="images/outlook.png" alt="linkedin"></a>
+                        <a class="px-3" href="https://dk.linkedin.com/school/via-university-college/?trk=public_profile_topcard_school" target="_blank"><img src="images/linkedin.png" alt="linkedin" /></a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="js/script.js"></script>
+</body>

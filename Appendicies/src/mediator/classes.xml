@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ClassList>
+  <classes>
+    <studentCount>20</studentCount>
+    <classRoom>room1</classRoom>
+    <className>Y1</className>
+  </classes>
+  <classes>
+    <studentCount>30</studentCount>
+    <classRoom>302b</classRoom>
+    <className>X1</className>
+  </classes>
+  <classes>
+    <studentCount>10</studentCount>
+    <classRoom>room3</classRoom>
+    <className>Z1</className>
+  </classes>
+  <classes>
+    <studentCount>11</studentCount>
+    <classRoom>room4</classRoom>
+    <className>P1</className>
+  </classes>
+</ClassList>

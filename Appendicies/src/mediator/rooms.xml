@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<RoomList>
+  <rooms>
+    <vga>true</vga>
+    <size>15</size>
+    <hdmi>false</hdmi>
+    <isArrangedW>false</isArrangedW>
+    <roomName>301a</roomName>
+  </rooms>
+  <rooms>
+    <vga>false</vga>
+    <size>14</size>
+    <hdmi>true</hdmi>
+    <isArrangedW>true</isArrangedW>
+    <roomName>311</roomName>
+  </rooms>
+  <rooms>
+    <vga>true</vga>
+    <size>40</size>
+    <hdmi>true</hdmi>
+    <isArrangedW>false</isArrangedW>
+    <roomName>sgd</roomName>
+  </rooms>
+  <rooms>
+    <vga>true</vga>
+    <size>50</size>
+    <hdmi>true</hdmi>
+    <isArrangedW>false</isArrangedW>
+    <roomName>tiu</roomName>
+  </rooms>
+  <rooms>
+    <vga>true</vga>
+    <size>20</size>
+    <hdmi>true</hdmi>
+    <isArrangedW>true</isArrangedW>
+    <roomName>302b</roomName>
+  </rooms>
+  <rooms>
+    <vga>false</vga>
+    <size>30</size>
+    <hdmi>false</hdmi>
+    <isArrangedW>false</isArrangedW>
+    <roomName>303</roomName>
+  </rooms>
+</RoomList>

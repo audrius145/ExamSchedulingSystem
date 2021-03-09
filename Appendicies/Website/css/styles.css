@@ -1,0 +1,160 @@
+.headerrules {
+    background-color: #bfd8d9;
+}
+
+body {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+h4 {
+    background-color: cadetblue;
+}
+
+.background {
+    background-color: whitesmoke;
+}
+
+a {
+    color: darkblue;
+}
+
+
+/*footer (Pal)*/
+
+.footer {
+    background: lightgrey;
+}
+
+
+/*navigationbar (Audrius)*/
+
+.navbar {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    background-color: rgba(128, 128, 128, 0.8)!important;
+}
+.navbar.hide{
+    transform: translateY(-100%)
+}
+
+.navbar-brand img {
+    width: 50%;
+}
+
+.navbar-nav li {
+    padding-right: .7rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    padding-top: .8rem;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: aqua;
+}
+
+@media screen and (max-width: 414px) {
+    .navbar-brand {
+        display: none;
+    }
+}
+
+
+/*Audrius index page*/
+
+.carousel-inner img {
+    width: 100%;
+    margin: auto;
+    display: block;
+}
+
+.carousel-caption h1 {
+    font-size: 250%;
+    text-shadow: 1px 1px 10px #000;
+}
+
+.carousel-caption h5 {
+    font-size: 75%;
+    text-shadow: 1px 1px 10px #000;
+    font-style: oblique;
+}
+
+.card .card-header {
+    background-color: cadetblue;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+/*Style for advice Samantha*/
+
+.jumbotron {
+    background-color: cadetblue;
+    text-align: center;
+}
+
+p.header {
+    font-size: 20px;
+}
+
+.nav-pills > li > a.active {
+    font-size: 20px;
+    border: 2px solid;
+    border-color: #5F9EA0;
+    background-color: #5F9EA0!important;
+}
+
+.nav-link {
+    font-size: 20px;
+    color: #5F9EA0;
+}
+
+.wellbeing {
+    margin: 5px;
+    float: left;
+    vertical-align: middle;
+}
+
+.wellness {
+    font-size: 20px;
+}
+
+.breaks {
+    float: right;
+}
+
+
+/*table Pal*/
+
+table,
+th,
+tr,
+td {
+    border: 2px solid black;
+}
+
+table {
+    height: 400px;
+}
+
+
+/*exam-types Melania*/
+
+.hhh {
+    background: cadetblue;
+}
+
+.typestitle {
+    background: #dfe5ec;
+}

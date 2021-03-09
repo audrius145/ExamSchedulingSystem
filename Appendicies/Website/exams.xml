@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <ExamList>
+        <Exam>
+            <Course>SDJ1</Course>
+            <Class>Y1</Class>
+            <Date>12/01/2020 13/01/2020 </Date>
+            <Room>301a</Room>
+            <Examiner>Steffen Vissing Andersen, VIA ID: SVA </Examiner>
+        </Exam>
+        <Exam>
+            <Course>MSE1</Course>
+            <Class>X1</Class>
+            <Date>13/01/2020 </Date>
+            <Room>301b</Room>
+            <Examiner>Lars Bech Sorensen, VIA ID: LBS </Examiner>
+        </Exam>
+        <Exam>
+            <Course>MCE2</Course>
+            <Class>Z1</Class>
+            <Date>21/01/2020 </Date>
+            <Room>300</Room>
+            <Examiner>Pal Jambor, VIA ID: 299154 </Examiner>
+        </Exam>
+        <Exam>
+            <Course>SDJ2</Course>
+            <Class>Y2</Class>
+            <Date>22/01/2020 </Date>
+            <Room>300</Room>
+            <Examiner>Steffen Vissing Andersen, VIA ID: SVA</Examiner>
+        </Exam>
+    </ExamList>

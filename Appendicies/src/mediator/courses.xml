@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CourseList>
+  <courseList>
+    <courseName>SDJ1</courseName>
+    <teacher>
+      <firstName>Steffen</firstName>
+      <lastName>Vissing Andersen</lastName>
+      <viaId>abcd</viaId>
+    </teacher>
+    <isScheduled>false</isScheduled>
+  </courseList>
+  <courseList>
+    <courseName>MSE1</courseName>
+    <teacher>
+      <firstName>Mona</firstName>
+      <lastName>Wendel Andersen</lastName>
+      <viaId>efgh</viaId>
+    </teacher>
+    <isScheduled>false</isScheduled>
+  </courseList>
+  <courseList>
+    <courseName>SSE1</courseName>
+    <teacher>
+      <firstName>Linette</firstName>
+      <lastName>Reignheart</lastName>
+      <viaId>pqrs</viaId>
+    </teacher>
+    <isScheduled>false</isScheduled>
+  </courseList>
+</CourseList>
